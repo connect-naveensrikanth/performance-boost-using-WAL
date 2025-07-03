@@ -1,7 +1,7 @@
-# queries
+# ioops
 **It's a metric used to measure the number of requests a system receives and processes per second.**
 
-**OPTIMIZING READ PERFORMANCE IN DISTRIBUTED SYSTEMS WITH LEASE-BASED LATENCY**\
+**EFFICIENT MANAGEMENT OF DISK THROUGHPUT IN DISTRIBUTED ARCHITECTURES**\
 * Author: 
 * Published In : 
 * Publication Date:
