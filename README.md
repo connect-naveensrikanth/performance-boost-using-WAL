@@ -1,5 +1,5 @@
 # ioops
-**It's a metric used to measure the number of requests a system receives and processes per second.**
+**Input/output (I/O) operations are the fundamental way computers receive data and send results.**
 
 **EFFICIENT MANAGEMENT OF DISK THROUGHPUT IN DISTRIBUTED ARCHITECTURES**
 * Author: Naveen Srikanth Pasupuleti
