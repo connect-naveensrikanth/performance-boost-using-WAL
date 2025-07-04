@@ -50,7 +50,7 @@ This paper investigates the impact of disk throughput on distributed systems lik
 * This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJISAE Site: https://ijisae.org/index.php/IJISAE
+* https://ijisae.org/index.php/IJISAE
 
 **Author Contact** 
   * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
