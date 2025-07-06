@@ -1,16 +1,16 @@
-# ioops
-**Input/output (I/O) operations are the fundamental way computers receive data and send results.**
-
-**EFFICIENT MANAGEMENT OF DISK THROUGHPUT IN DISTRIBUTED ARCHITECTURES**
+# Efficient Management of Disk Throughput in Distributed Architectures
 * Author: Naveen Srikanth Pasupuleti
 * Published In : International Journal of Intelligent Systems and Applications in Engineering (IJISAE)
-* Publication Date: 21/02/2021
+* Publication Date: Feb 2021
 * E-ISSN: 2147-6799
 * Impact Factor: 
-* Link: https://ijisae.org/index.php/IJISAE/article/view/7608/6625
+* Link: [Read the paper](https://ijisae.org/index.php/IJISAE/article/view/7608/6625)
 
 **Abstract**:\
 This paper investigates the impact of disk throughput on distributed systems like etcd, which rely on State Machine Replication (SMR) for consistency and fault tolerance. As node count increases, disk throughput declines due to the overhead of log replication and synchronization. The performance bottleneck, especially under high data mutation rates, significantly affects system responsiveness and reliability. To address this, the paper proposes optimizing disk throughput using a Write-Ahead Log (WAL) algorithm. The WAL approach improves data durability and replication efficiency, enhancing overall system performance.
+
+**IOOPS**:\
+Input/output (I/O) operations are the fundamental way computers receive data and send results.
 
 **Key Contributions:** 
 * **Algorithm Development** \
@@ -47,10 +47,10 @@ This paper investigates the impact of disk throughput on distributed systems lik
 *   E-ISSN-2147-6799
 
 **License**
-* This research is shared for a academic and research purposes. For commercial use, please contact the author.
+* This research is shared for academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* https://ijisae.org/index.php/IJISAE
+* [IJISAE Website](https://ijisae.org/index.php/IJISAE)
 
 **Author Contact** 
   * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
