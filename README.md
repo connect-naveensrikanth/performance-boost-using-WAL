@@ -53,4 +53,4 @@ Input/output (I/O) operations are the fundamental way computers receive data and
 * [IJISAE Website](https://ijisae.org/index.php/IJISAE)
 
 **Author Contact** 
-  * LinkedIn: https://www.linkedin.com/in/naveensrikanth  |  * Email: connect.naveensrikanth@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth  |  Email: connect.naveensrikanth@gmail.com
