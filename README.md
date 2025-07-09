@@ -6,7 +6,7 @@
 * Impact Factor: 
 * Link: [Read the paper](https://ijisae.org/index.php/IJISAE/article/view/7608/6625)
 ---
-## 📌 **Abstract**:\
+## 📌 **Abstract**:
 This paper investigates the impact of disk throughput on distributed systems like etcd, which rely on State Machine Replication (SMR) for consistency and fault tolerance. As node count increases, disk throughput declines due to the overhead of log replication and synchronization. The performance bottleneck, especially under high data mutation rates, significantly affects system responsiveness and reliability. To address this, the paper proposes optimizing disk throughput using a Write-Ahead Log (WAL) algorithm. The WAL approach improves data durability and replication efficiency, enhancing overall system performance.
 
 **IOOPS**:\
