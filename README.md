@@ -21,10 +21,21 @@ Input/output (I/O) operations are the fundamental way computers receive data and
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving input and output operations.
-* **Query Processing Improvement:** \
-    need to add here
+* **WAL-based storage optimization:**\
+Improves write-heavy workload performance in distributed systems by leveraging efficient sequential write operations, resulting in enhanced disk throughput and scalable performance as the number of nodes increases.
+
+* **Query processing improvement:**\
+Minimizes read-write contention and supports rapid data recovery, enabling faster and more predictable query execution during peak loads and cluster transitions.
+
+* **Resource management:**\
+Maximizes disk I/O utilization and reduces unnecessary write amplification, ensuring better use of system resources in environments with high data ingestion rates.
+
+* **Failure recovery:**\
+Supports rapid recovery and data integrity through durable write logging, reducing recovery time objectives (RTO) and ensuring consistency after node crashes or unexpected shutdowns.
+
+* **Replication efficiency:**\
+Facilitates consistent replication by preserving write order and reducing state divergence across replicas, making it well-suited for distributed databases and fault-tolerant architectures.
+
 * **Academic Recognition :** \
     need to add here
 * **Educational Impact:** \
