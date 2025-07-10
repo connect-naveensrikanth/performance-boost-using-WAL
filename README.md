@@ -37,9 +37,9 @@ Supports rapid recovery and data integrity through durable write logging, reduci
 Facilitates consistent replication by preserving write order and reducing state divergence across replicas, making it well-suited for distributed databases and fault-tolerant architectures.
 
 * **Academic Recognition :** \
-    need to add here
+    Covered in academic publications and technical literature addressing enhancements in DNS resolution and efficiency optimization within ETCD systems.
 * **Educational Impact:** \
-    need to add here
+    Embedded in academic initiatives, contributing to ongoing scholarly exploration of workload automation and performance optimization in cloud-native environments.
 
 **Experimental Results (Summary)**
 
